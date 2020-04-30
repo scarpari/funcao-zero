@@ -1,11 +1,11 @@
 # funcao-zero
 Usa de métodos para chegar a valores próximos de uma raiz em uma função
 Para isso, tem-se à disposição os métodos:
-  \n1 - Metodo da Bisseccao
-  \n2 - Metodo da Falsa Posicao
-  \n3 - Metodo do Ponto Fixo
-  \n4 - Metodo Newton-Raphson
-  \n5 - Metododa Secante\n\n
+  1 - Metodo da Bisseccao
+  2 - Metodo da Falsa Posicao
+  3 - Metodo do Ponto Fixo
+  4 - Metodo Newton-Raphson
+  5 - Metododa Secante
   
   Caso o programa apresente algum erro de mensagem, indica que o método é incapaz de achar 
   a raíz daquela função, seja pelo fato de que o método "pulou a raíz, ou seja pelo fato

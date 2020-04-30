@@ -112,12 +112,12 @@ if __name__ == "__main__":
     epsilon1 = 0.001
     epsilon2 = 0.001
     sys.stdout.write("\nPrograma de Metodos para a Obtencao de valores "
-                     "aproximados do Zero da Funcao\nFeito por Tocha\n\n")
+                     "aproximados do Zero da Funcao\n\n")
     opt = int(input("1 - Metodo da Bisseccao\n"
                     "2 - Metodo da Falsa Posicao\n"
                     "3 - Metodo do Ponto Fixo\n"
                     "4 - Metodo Newton-Raphson\n"
-                    "5 - Metododa Secante\n"
+                    "5 - Metodo da Secante\n"
                     "6 - Todos os Metodos\n\n"
                     "Digite um numero de 1 a 6 referente ao metodo que gostaria de selecionar: "))
     sys.stdout.write("\n")
@@ -146,5 +146,4 @@ if __name__ == "__main__":
         sys.stdout.write("\nO numero digitado eh invalido!\n"
                          "Digite um numero de 1 a 6 para verificar os Metodos.\n\n")
 
-    sys.stdout.write("\n\n********************         Ricardo Patrizi Scarpari         ******************** \n"
-                     "********************                  Tocha                  ********************\n\n")
+    sys.stdout.write("\n\n********************                  Tocha                  ********************\n\n")
